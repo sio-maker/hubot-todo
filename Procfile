@@ -1,0 +1,1 @@
+web: env HUBOT_SLACK_TOKEN=xoxb-1014585354562-1017617584145-tm6Mab7wRi5x7tOAud8SDnx5 bin/hubot -a slack
